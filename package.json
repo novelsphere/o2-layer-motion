@@ -1,0 +1,26 @@
+{
+  "name": "o2-layer-motion",
+  "version": "1.0.0",
+  "description": "Move layers with predefined motion",
+  "author": "b123400@gmail.com",
+  "scripts": {
+    "lint": "eslint -c .eslintrc.json layer-motion.js",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/novelsphere/o2-layer-motion.git"
+  },
+  "keywords": [
+    "o2engine"
+  ],
+  "engines": {
+    "node": ">= 4.0.0",
+    "o2": ">= 2.2"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^2.4.0"
+  },
+  "license": "MIT"
+}
